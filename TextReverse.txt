@@ -1,0 +1,7 @@
+This is oop theory assignment.
+All text will be reversed after we run the program.
+We use collection class.
+This class has built in method named as reverse which helps us accomplish this task. 
+
+
+
